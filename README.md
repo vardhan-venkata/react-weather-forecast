@@ -21,3 +21,14 @@ Please Signup in the respective websites and get the keys for using the API's
 - Material UI -> UI Library
 - react-scripts -> For Running scripts
 - react-select-async-paginate -> To get the locations async
+
+### Usage
+
+- Clone the repository
+- Do <bold>npm install</bold> to install all the dependencies
+- Replaces the API keys
+- Run the project using <bold>npm run start</bold>
+  ### Happing Coding
+
+### How can I appreciate this repo? 💙
+- By giving this repo a 🌟
