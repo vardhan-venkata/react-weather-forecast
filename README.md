@@ -1,3 +1,4 @@
+### 🤗🤗 Happing Coding 🤗🤗
 <h1>🌐 Responsive React Weather ⛈ Forecast APP 🌐</h1>
 
 <h3>Description</h3><hr/>
@@ -28,7 +29,6 @@ Please Signup in the respective websites and get the keys for using the API's
 - Do <bold>npm install</bold> to install all the dependencies
 - Replaces the API keys
 - Run the project using <bold>npm run start</bold>
-  ### Happing Coding
 
 ### How can I appreciate this repo? 💙
 - By giving this repo a 🌟
